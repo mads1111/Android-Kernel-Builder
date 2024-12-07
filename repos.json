@@ -3,7 +3,7 @@
       "name": "mik-KernelSU",
       "repo": " https://github.com/physwizz/a145p-T.git",
       "branch": "main",
-      "device": "odin"
+      "device": "145m"
     },
     "withKernelSU": true,
     "toolchains": [
